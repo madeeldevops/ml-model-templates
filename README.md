@@ -1,1 +1,1 @@
-# machine-learning-templates
+# machine-learning
