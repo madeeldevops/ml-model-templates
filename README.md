@@ -1,2 +1,2 @@
 # machine-learning-templates
-adeelhashmi145
+All practiced samples notebooks(edited and tagged byme) with some sought of instructions.
